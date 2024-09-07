@@ -4,11 +4,11 @@ In this exploration, I decided to compare two different multiagent RAG pipelines
 
 
 ## First notebook - LangGraph/Langchain based RAG pipeline
-In the notebook `vc_Attention_is_all_you_need_Multi_Agent_RAG_LangGraph.ipynb`, link here [text](vc_Attention_is_all_you_need_Multi_Agent_RAG_LangGraph.ipynb), I use the exact same notebook as we used for our assignment in the AI Engineering Cohort #4, Week-3, Day-2 exploration of multi-agent systems.  Only difference is that I used the "Attention is All You Need" paper's pdf version as the source document.  You can find a copy of the paper in this repo under the data folder.
+In the notebook `vc_Attention_is_all_you_need_Multi_Agent_RAG_LangGraph.ipynb`, [link](vc_Attention_is_all_you_need_Multi_Agent_RAG_LangGraph.ipynb), I use the exact same notebook as we used for our assignment in the AI Engineering Cohort #4, Week-3, Day-2 exploration of multi-agent systems.  Only difference is that I used the "Attention is All You Need" paper's pdf version as the source document.  You can find a copy of the paper in this repo under the data folder.
 
 
 ## Second notebook - CrewAI and LlamaIndex based RAG pipeline
-In the second notebook, `vc_crewAI_LlamaIndex_multiAgent_RAG_example.ipynb` link here [text](vc_crewAI_LlamaIndex_multiAgent_RAG_example.ipynb), I set up a multiagent RAG pipeline using CrewAI and LlamaIndex.  I wanted to learn more about the different wrappers available to set up multiagent systems, hence this exercise!!  For this exploration, I used the same "Attention is all you need" paper.
+In the second notebook, `vc_crewAI_LlamaIndex_multiAgent_RAG_example.ipynb`, [link](vc_crewAI_LlamaIndex_multiAgent_RAG_example.ipynb), I set up a multiagent RAG pipeline using CrewAI and LlamaIndex.  I wanted to learn more about the different wrappers available to set up multiagent systems, hence this exercise!!  For this exploration, I used the same "Attention is all you need" paper.
 
 
 ## Objective/Prompt
